@@ -1,5 +1,5 @@
 # 💫 About Me:
-Krish — CSE undergraduate focused on building real-world solutions through practical, “vibe-driven” coding. Proficient in C and Python, currently learning and exploring core computer science concepts. Interested in video editing and design alongside tech.
+Krishna Kaushik — CSE undergraduate focused on building real-world solutions through practical, “vibe-driven” coding. Proficient in C and Python, currently learning and exploring core computer science concepts. Interested in video editing and design alongside tech.
 
 
 
